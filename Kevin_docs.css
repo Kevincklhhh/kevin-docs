@@ -1,0 +1,10 @@
+body{
+	background-color: #DBDBDB;
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-size: 16px;
+}
+div{background-color: #ff6600;
+	border:1px dashed #000;
+	margin:10px 40px 25px 5px;}
+.boxfixed{overflow: auto;}
+
